@@ -1,0 +1,31 @@
+﻿{
+  "title": "VEHICLE-ODI: A Relational Decision Architecture for Orbital Debris Prioritization",
+  "upload_type": "publication",
+  "publication_type": "article",
+  "description": "VEHICLE-ODI is a relational decision architecture for orbital debris prioritization. It models debris, assets, orbital regions and uncertainty as a structured graph to support Orbital Tension Index analysis, A1-A6 regimes and supervised decision support before intervention.",
+  "creators": [
+    {
+      "name": "Borda Milan, Roberto",
+      "affiliation": "VEHICLE Systems Lab",
+      "orcid": "0009-0009-9047-1036"
+    }
+  ],
+  "keywords": [
+    "orbital debris",
+    "space debris",
+    "space traffic management",
+    "orbital sustainability",
+    "decision architecture",
+    "relational systems",
+    "VEHICLE-ODI"
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "identifier": "https://vehiclesystemslab.com",
+      "relation": "isSupplementedBy",
+      "scheme": "url"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+﻿# VEHICLE-ODI
+
+**VEHICLE-ODI: A Relational Decision Architecture for Orbital Debris Prioritization**
+
+VEHICLE-ODI is a relational decision architecture for prioritizing orbital debris before intervention, using structured graphs, Orbital Tension Index analysis, A1-A6 regimes and supervised decision support.
+
+## Concept
+
+The central premise of VEHICLE-ODI is simple:
+
+**Before removing orbital debris, we must know which debris matters most.**
+
+VEHICLE-ODI does not replace space situational awareness, space traffic management, astrodynamics, sensors or active debris removal systems. It provides a complementary structural intelligence layer for prioritization, interpretation and supervised decision support.
+
+## Core Components
+
+- Orbital debris objects, fragments, assets and orbital regions as relational nodes
+- Dynamic graph representation of orbital risk fields
+- Orbital Tension Index
+- A1-A6 operational regimes
+- Supervised decision support before intervention
+
+## Author
+
+**Roberto Borda Milan**  
+VEHICLE Systems Lab  
+Santa Cruz, Bolivia  
+ORCID: https://orcid.org/0009-0009-9047-1036  
+Contact: contact@vehiclesystemslab.com  
+Website: https://vehiclesystemslab.com
+
+## Repository Contents
+
+```text
+docs/        Final manuscript and cover letter
+figures/     VEHICLE-ODI Figure 1
+manuscript/  Markdown source version
+
+### CITATION.cff
+
+```powershell
+@'
+cff-version: 1.2.0
+title: "VEHICLE-ODI: A Relational Decision Architecture for Orbital Debris Prioritization"
+message: "If you use or reference this work, please cite it using the metadata from this file."
+type: software
+authors:
+  - family-names: "Borda Milan"
+    given-names: "Roberto"
+    orcid: "https://orcid.org/0009-0009-9047-1036"
+abstract: "VEHICLE-ODI is a relational decision architecture for orbital debris prioritization. It models debris, assets, orbital regions and uncertainty as a structured graph to support Orbital Tension Index analysis, A1-A6 regimes and supervised decision support before intervention."
+keywords:
+  - orbital debris
+  - space debris
+  - space traffic management
+  - orbital sustainability
+  - decision architecture
+  - relational systems
+  - VEHICLE-ODI
+license: MIT
+repository-code: "https://github.com/vehiclesystemslab/VEHICLE-ODI"
+url: "https://vehiclesystemslab.com"
+version: "1.0.0"
+date-released: "2026-05-07"
